@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux, Cloud, CyberSecurity
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on whatever I can help with my current knowledges :D
-- 📫 How to reach me >> pmyatedu@gmail.com
+- 📫 How to reach me >> 
 
 <!---
 phmyat/phmyat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
